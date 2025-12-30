@@ -1,0 +1,102 @@
+
+body{
+  background-color: #213448;
+}
+
+
+.heading{
+    color:#EAE0CF;
+    margin-left: 10%;
+}
+
+.Name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #EAE0CF;
+    margin-left: 10%;
+}
+.pfp img{
+    width: 200px;
+    height: auto;
+    margin-bottom: 30px;
+    border-radius: 70px;
+    margin-left: 10%;
+}
+.skills ul{
+    font-family:cursive
+}
+.navbar{
+  background-color: #547792;
+  padding: 15px 40px;
+  border-bottom: 1px solid #333;
+  border-radius: 10px;
+
+}
+.nav-links{
+    list-style:none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #eee;
+    font-size: 15px;
+    transition: color 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #bdb5a2;
+  }
+  .navbar::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  .Experience{
+    background-color: #547792;
+    color: #eee;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border-left: 4px solid #94B4C1;
+    margin-right: 30%;
+    margin-left: 10%;
+    
+  }
+  .education{
+    background-color: #547792;
+    color: #eee;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border-left: 4px solid #94B4C1;
+    margin-right: 30%;
+    margin-left: 10%;
+  }
+  .skills{
+    background-color: #547792;
+    color: #eee;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border-left: 4px solid #94B4C1;
+    margin-right: 30%;
+    margin-left: 10%;
+  }
+.Summary{
+  background-color: #547792;
+    color: #eee;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border-left: 4px solid #94B4C1;
+    margin-right: 30%;
+    margin-left: 10%;
+  }
+
